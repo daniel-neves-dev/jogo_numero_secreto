@@ -1,4 +1,4 @@
-<h1>Jogo - Palavra Secreta</h1>
+<h1>Jogo - Número Secreto</h1>
 
 <p>Lógica de programação com JavaScript - Formação iniciante One - Alura turma G8. </p>
 
